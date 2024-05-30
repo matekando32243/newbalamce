@@ -107,7 +107,11 @@ footer{
         border-radius: 15px;
     }
     
-    
+    #footer{
+        margin: auto;
+        margin: 2px;
+    }
+
 
 
 
